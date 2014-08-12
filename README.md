@@ -1,8 +1,6 @@
 Hello-World
 ===========
 
-First try
+Try another doc.
 
-This is a little difficult for me. But it's interesting. I will carry on this.
-
-It's wonderful.
+woo woo.
